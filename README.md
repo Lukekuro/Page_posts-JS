@@ -5,3 +5,4 @@ Page without WordPress
 - Control the Web Browser with JavaScript
 - Implement user registration, log-in, log-out & user generated content
 - Setup a server by using Node JS and Express
+- EJS (Embedded JavaScript)
